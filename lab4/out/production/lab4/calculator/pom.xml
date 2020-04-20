@@ -1,0 +1,13 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>calculator.app</groupId>
+    <artifactId>my-calculator</artifactId>
+    <version>1</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.mariuszgromada.math</groupId>
+            <artifactId>MathParser.org-mXparser</artifactId>
+            <version>4.3.3</version>
+        </dependency>
+    </dependencies>
+</project>
